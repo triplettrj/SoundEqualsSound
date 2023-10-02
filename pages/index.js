@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to SoundEqualsSound!
+          Welcome to SoundEqualsSound!!!
         </h1>
       </main>
 
